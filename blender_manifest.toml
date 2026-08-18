@@ -1,0 +1,11 @@
+schema_version = "1.0.0"
+id = "arithmetic_practice"
+version = "1.0.0"
+name = "算术练习"
+tagline = "Blender内简易算术脑力练习工具"
+maintainer = "User"
+type = "add-on"
+blender_version_min = "5.2.0"
+license = ["GPL‑3.0‑or‑later"]
+copyright = ["User"]
+tags = ["UI"]

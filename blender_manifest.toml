@@ -9,3 +9,5 @@ blender_version_min = "5.2.0"
 license = ["GPL‑3.0‑or‑later"]
 copyright = ["User"]
 tags = ["UI"]
+readme = "README.md"
+website = "https://github.com/blancosong/arithmetic_practice"

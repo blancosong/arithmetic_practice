@@ -1,0 +1,2 @@
+# arithmetic_practice
+Blender算术练习插件，用于在Blender内做算术脑力练习
